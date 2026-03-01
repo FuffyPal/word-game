@@ -1,24 +1,7 @@
-# **WORD-Game**
+# ❄️ Bu Proje Arşivlenmiştir
 
-*For now only türkçe(turkish)*
+Bu proje, yaklaşık 3 yıl önce büyük bir heyecanla başlatıldı ancak TDK (Türk Dil Kurumu) veri çekme süreçlerinde yaşanan teknik aşılmazlar ve veri erişim kısıtlamaları nedeniyle donduruldu.
 
-### apps required to run
+Veri kaynağına ulaşılamaması, projenin temel işlevini yerine getirmesine engel olduğu için geliştirme süreci durdurulmuştur. Kodlar, bir gün birine ilham olması veya "nerede kalmıştık?" denmesi ihtimaline karşı olduğu gibi bırakılmıştır.
 
-python3.6 version or newse
-
-
-### **to make it run**
-
-(MacOs/linux)
-```
-$source dependencies/myenv/bin/activate
-
-$python src/main.py
-```
-
-(Windows) 
-```
-$dependencies\myenv\Scripts\activate
-
-$python src/main.py
-```
+Durumu: Arşivlendi (Mezarlıkta bir yer ayrıldı 🪦)
